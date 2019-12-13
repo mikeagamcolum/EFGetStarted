@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using Intro;
 
 namespace Intro
 {
@@ -18,7 +19,7 @@ namespace Intro
         public string Url { get; set; }
         public int Rating { get; set; }
         public List<Post> Posts { get; set; }
-}    }
+    }
 
     public class Post
     {
@@ -29,5 +30,4 @@ namespace Intro
         public int BlogId { get; set; }
         public Blog Blog { get; set; }
     }
-
 }

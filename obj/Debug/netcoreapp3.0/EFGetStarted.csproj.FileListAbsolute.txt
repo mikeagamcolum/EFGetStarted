@@ -52,3 +52,4 @@ C:\Users\Mike\Source\Repos\EFGetStarted\EFGetStarted\bin\Debug\netcoreapp3.0\run
 C:\Users\Mike\Source\Repos\EFGetStarted\EFGetStarted\obj\Debug\netcoreapp3.0\EFGetStarted.csproj.CopyComplete
 C:\Users\Mike\Source\Repos\EFGetStarted\EFGetStarted\obj\Debug\netcoreapp3.0\EFGetStarted.dll
 C:\Users\Mike\Source\Repos\EFGetStarted\EFGetStarted\obj\Debug\netcoreapp3.0\EFGetStarted.pdb
+C:\Users\Mike\Source\Repos\EFGetStarted\EFGetStarted\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
